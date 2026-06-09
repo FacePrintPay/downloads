@@ -1,0 +1,1 @@
+export VERCEL_BYPASS="ZcJpVCkP6VH8D..."
